@@ -1,0 +1,8823 @@
+[
+  {
+    "transaction_id": 52135200,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T02:32:24.563755",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": null
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 28793168,
+    "customer_id": 5,
+    "timestamp": "2024-02-06T06:45:21.466588",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 1824587,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T06:45:35.141569",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 41209824,
+    "customer_id": 24,
+    "timestamp": "2024-02-06T21:46:21.741311",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 10663714,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T06:36:22.417832",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 69111460,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T08:51:13.476504",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 75669886,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T10:33:25.198202",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 15118121,
+    "customer_id": 20,
+    "timestamp": "2024-02-06T19:37:37.155475",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 51359057,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T21:56:29.067738",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 51142045,
+    "customer_id": 11,
+    "timestamp": "2024-02-06T11:15:21.560749",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 45282821,
+    "customer_id": 12,
+    "timestamp": "2024-02-06T10:33:59.585282",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 82978510,
+    "customer_id": 20,
+    "timestamp": "2024-02-06T05:26:33.163526",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 50935020,
+    "customer_id": 3,
+    "timestamp": "2024-02-06T09:31:20.493820",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 25161972,
+    "customer_id": 2,
+    "timestamp": "2024-02-06T21:23:33.713554",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 13592279,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T20:06:08.381787",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 58618002,
+    "customer_id": 6,
+    "timestamp": "2024-02-06T06:42:32.635622",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 12157004,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T04:55:28.852904",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 55100618,
+    "customer_id": 29,
+    "timestamp": "2024-02-06T05:31:54.442474",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 24531237,
+    "customer_id": 29,
+    "timestamp": "2024-02-06T23:17:26.268152",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 51785843,
+    "customer_id": 27,
+    "timestamp": "2024-02-06T10:04:12.514650",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": null
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 72221704,
+    "customer_id": 21,
+    "timestamp": "2024-02-06T03:06:22.931464",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 43289807,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T14:11:16.377264",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": null
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 1970383,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T09:25:55.972111",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 65427916,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T09:47:14.247545",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 97051859,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T23:50:39.938460",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 10702433,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T03:41:14.280452",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 69546368,
+    "customer_id": 25,
+    "timestamp": "2024-02-06T05:07:54.713148",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 72419128,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T22:17:57.271777",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 40925312,
+    "customer_id": 4,
+    "timestamp": "2024-02-06T06:10:46.694678",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": null
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 19365023,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T17:39:04.816140",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 39629625,
+    "customer_id": 1,
+    "timestamp": "2024-02-06T15:01:49.385579",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 15143618,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T15:50:09.178752",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 92136813,
+    "customer_id": 20,
+    "timestamp": "2024-02-06T05:30:12.405149",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 18202026,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T00:19:25.895170",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 39642896,
+    "customer_id": 21,
+    "timestamp": "2024-02-06T21:41:40.621776",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 31562837,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T15:18:49.150205",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 52263364,
+    "customer_id": 4,
+    "timestamp": "2024-02-06T12:46:55.205558",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 99412040,
+    "customer_id": 17,
+    "timestamp": "2024-02-06T10:15:56.642267",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 69808462,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T05:38:22.080254",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 24869967,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T12:00:09.102261",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 9465402,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T02:27:00.906807",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 44010967,
+    "customer_id": 17,
+    "timestamp": "2024-02-06T19:37:52.172411",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 4021975,
+    "customer_id": 8,
+    "timestamp": "2024-02-06T00:53:04.951106",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 44483477,
+    "customer_id": 22,
+    "timestamp": "2024-02-06T04:23:21.696375",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 76509446,
+    "customer_id": 5,
+    "timestamp": "2024-02-06T03:16:05.437010",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 31024777,
+    "customer_id": 22,
+    "timestamp": "2024-02-06T20:03:23.443815",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 563203,
+    "customer_id": 17,
+    "timestamp": "2024-02-06T14:52:19.603734",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 89918483,
+    "customer_id": 29,
+    "timestamp": "2024-02-06T10:42:32.098956",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 95907154,
+    "customer_id": 12,
+    "timestamp": "2024-02-06T10:24:14.042646",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 38771724,
+    "customer_id": 1,
+    "timestamp": "2024-02-06T05:28:22.178567",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 35586104,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T03:18:25.050567",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 65905832,
+    "customer_id": 22,
+    "timestamp": "2024-02-06T22:25:27.966003",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 30169500,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T23:20:38.658319",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 98535485,
+    "customer_id": 17,
+    "timestamp": "2024-02-06T23:15:11.294237",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 24302363,
+    "customer_id": 23,
+    "timestamp": "2024-02-06T22:46:12.473002",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 92413531,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T14:48:42.077097",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 40673563,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T09:30:37.087426",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 34571157,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T18:52:49.963350",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 46922948,
+    "customer_id": 30,
+    "timestamp": "2024-02-06T14:00:28.836575",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 38211798,
+    "customer_id": 19,
+    "timestamp": "2024-02-06T12:30:30.783168",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 45914184,
+    "customer_id": 12,
+    "timestamp": "2024-02-06T07:15:43.298769",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 95297273,
+    "customer_id": 30,
+    "timestamp": "2024-02-06T02:47:46.904797",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 97418934,
+    "customer_id": 23,
+    "timestamp": "2024-02-06T14:30:28.992585",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 558144,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T13:07:53.676028",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": null
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 82755344,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T17:01:11.047967",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 28101469,
+    "customer_id": 25,
+    "timestamp": "2024-02-06T11:21:41.371083",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 73677030,
+    "customer_id": 25,
+    "timestamp": "2024-02-06T01:14:40.408668",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 70675174,
+    "customer_id": 3,
+    "timestamp": "2024-02-06T13:00:17.011240",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 48979670,
+    "customer_id": 22,
+    "timestamp": "2024-02-06T18:03:50.028583",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 16697805,
+    "customer_id": 7,
+    "timestamp": "2024-02-06T19:09:46.126131",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 85246063,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T04:07:38.695000",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 56436444,
+    "customer_id": 22,
+    "timestamp": "2024-02-06T12:07:03.678995",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 41905020,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T05:50:25.860339",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 24149139,
+    "customer_id": 30,
+    "timestamp": "2024-02-06T01:35:02.983976",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 49197823,
+    "customer_id": 10,
+    "timestamp": "2024-02-06T12:03:40.348657",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 46650660,
+    "customer_id": 5,
+    "timestamp": "2024-02-06T13:15:41.667346",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 63474411,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T14:33:53.349209",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 48189913,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T11:41:24.859581",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 59835135,
+    "customer_id": 6,
+    "timestamp": "2024-02-06T11:53:46.964577",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 17509387,
+    "customer_id": 20,
+    "timestamp": "2024-02-06T22:32:28.475764",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 11385482,
+    "customer_id": 21,
+    "timestamp": "2024-02-06T00:45:44.714121",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 97760256,
+    "customer_id": 5,
+    "timestamp": "2024-02-06T14:54:48.980353",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 68789137,
+    "customer_id": 17,
+    "timestamp": "2024-02-06T07:20:21.268064",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 50426090,
+    "customer_id": 25,
+    "timestamp": "2024-02-06T06:48:23.372639",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 16849595,
+    "customer_id": 1,
+    "timestamp": "2024-02-06T23:33:28.846895",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 52018923,
+    "customer_id": 10,
+    "timestamp": "2024-02-06T05:23:06.998643",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 73435985,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T12:25:39.239427",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": null
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 84927030,
+    "customer_id": 10,
+    "timestamp": "2024-02-06T02:27:42.768248",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 40568590,
+    "customer_id": 10,
+    "timestamp": "2024-02-06T07:54:32.084893",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 61374116,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T14:49:44.147231",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 67857232,
+    "customer_id": 8,
+    "timestamp": "2024-02-06T00:32:58.199051",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 33708569,
+    "customer_id": 2,
+    "timestamp": "2024-02-06T15:56:26.076454",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 29077314,
+    "customer_id": 4,
+    "timestamp": "2024-02-06T21:13:36.883458",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 61419123,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T10:13:24.725885",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 78817460,
+    "customer_id": 17,
+    "timestamp": "2024-02-06T23:28:09.153712",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 18446166,
+    "customer_id": 2,
+    "timestamp": "2024-02-06T10:54:15.151649",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 24417175,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T08:44:18.926197",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 60841053,
+    "customer_id": 5,
+    "timestamp": "2024-02-06T03:39:46.129198",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 15315447,
+    "customer_id": 12,
+    "timestamp": "2024-02-06T03:25:01.772714",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": null
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 69769200,
+    "customer_id": 28,
+    "timestamp": "2024-02-06T08:04:38.914161",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 50781976,
+    "customer_id": 19,
+    "timestamp": "2024-02-06T12:19:41.789962",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": null
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 94353705,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T19:35:45.947760",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 78563481,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T15:56:37.146485",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 51259898,
+    "customer_id": 17,
+    "timestamp": "2024-02-06T14:15:23.580936",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 22194906,
+    "customer_id": 27,
+    "timestamp": "2024-02-06T10:22:51.736082",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 99655975,
+    "customer_id": 6,
+    "timestamp": "2024-02-06T19:15:05.361391",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 11296930,
+    "customer_id": 9,
+    "timestamp": "2024-02-06T22:59:45.187397",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 75384139,
+    "customer_id": 25,
+    "timestamp": "2024-02-06T01:23:58.562996",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 31995082,
+    "customer_id": 2,
+    "timestamp": "2024-02-06T23:11:12.759985",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 32930836,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T12:06:15.197085",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 26574742,
+    "customer_id": 1,
+    "timestamp": "2024-02-06T11:16:28.355681",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 12292990,
+    "customer_id": 11,
+    "timestamp": "2024-02-06T00:54:21.746953",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": null
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 1442165,
+    "customer_id": 17,
+    "timestamp": "2024-02-06T12:20:44.367698",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 87752596,
+    "customer_id": 11,
+    "timestamp": "2024-02-06T08:44:43.726819",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 2888190,
+    "customer_id": 9,
+    "timestamp": "2024-02-06T23:10:17.435222",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 72067576,
+    "customer_id": 4,
+    "timestamp": "2024-02-06T11:37:28.321643",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 94790776,
+    "customer_id": 11,
+    "timestamp": "2024-02-06T07:38:20.415147",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 1019536,
+    "customer_id": 4,
+    "timestamp": "2024-02-06T17:05:12.031378",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 99756195,
+    "customer_id": 6,
+    "timestamp": "2024-02-06T10:18:34.642249",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 16920941,
+    "customer_id": 4,
+    "timestamp": "2024-02-06T00:43:06.285502",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 59728075,
+    "customer_id": 20,
+    "timestamp": "2024-02-06T21:42:32.910265",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 58136869,
+    "customer_id": 23,
+    "timestamp": "2024-02-06T19:34:08.514215",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 35714233,
+    "customer_id": 10,
+    "timestamp": "2024-02-06T18:34:36.620820",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 49179444,
+    "customer_id": 9,
+    "timestamp": "2024-02-06T07:11:16.991544",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 43657187,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T19:01:42.968703",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 808869,
+    "customer_id": 2,
+    "timestamp": "2024-02-06T01:41:07.881261",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 36986455,
+    "customer_id": 27,
+    "timestamp": "2024-02-06T10:03:53.968558",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 74103747,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T23:32:30.099019",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 86457886,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T06:28:56.650354",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 57881840,
+    "customer_id": 9,
+    "timestamp": "2024-02-06T19:41:12.189088",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 24167470,
+    "customer_id": 27,
+    "timestamp": "2024-02-06T18:20:45.718875",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 81197883,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T05:41:48.590650",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 77124311,
+    "customer_id": 30,
+    "timestamp": "2024-02-06T19:09:55.891922",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 8096546,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T12:53:52.654734",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 29259173,
+    "customer_id": 29,
+    "timestamp": "2024-02-06T00:11:26.706135",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 63610707,
+    "customer_id": 24,
+    "timestamp": "2024-02-06T18:27:54.983534",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 55409712,
+    "customer_id": 23,
+    "timestamp": "2024-02-06T15:23:30.824856",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 51081130,
+    "customer_id": 30,
+    "timestamp": "2024-02-06T08:14:10.191863",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 93639881,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T11:13:51.681193",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 27861513,
+    "customer_id": 1,
+    "timestamp": "2024-02-06T19:51:58.323742",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 97874316,
+    "customer_id": 25,
+    "timestamp": "2024-02-06T00:17:40.593847",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 34810118,
+    "customer_id": 19,
+    "timestamp": "2024-02-06T15:24:57.277453",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 98011409,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T22:26:19.765114",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 35157557,
+    "customer_id": 5,
+    "timestamp": "2024-02-06T07:25:50.430891",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": null
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 87313344,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T18:13:43.381914",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 92150135,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T23:03:39.852024",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 31098927,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T05:18:46.673065",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 24423528,
+    "customer_id": 4,
+    "timestamp": "2024-02-06T12:14:45.200133",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 11708028,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T07:34:38.098349",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 40280124,
+    "customer_id": 7,
+    "timestamp": "2024-02-06T10:33:29.150538",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 31309811,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T10:00:45.415812",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 11853469,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T00:59:58.140809",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 52620435,
+    "customer_id": 11,
+    "timestamp": "2024-02-06T08:36:05.800186",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 52650658,
+    "customer_id": 4,
+    "timestamp": "2024-02-06T14:50:16.476651",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 11251188,
+    "customer_id": 28,
+    "timestamp": "2024-02-06T13:10:35.167852",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 26149067,
+    "customer_id": 6,
+    "timestamp": "2024-02-06T08:04:35.721806",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 29977514,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T00:18:57.431342",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 19713840,
+    "customer_id": 19,
+    "timestamp": "2024-02-06T02:50:31.815252",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 70536762,
+    "customer_id": 8,
+    "timestamp": "2024-02-06T00:31:57.576698",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 75486162,
+    "customer_id": 28,
+    "timestamp": "2024-02-06T16:13:25.700176",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": null
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 44053977,
+    "customer_id": 3,
+    "timestamp": "2024-02-06T20:59:44.322145",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": null
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 5167606,
+    "customer_id": 23,
+    "timestamp": "2024-02-06T12:51:05.670197",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 49919603,
+    "customer_id": 22,
+    "timestamp": "2024-02-06T19:26:26.923058",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 57708792,
+    "customer_id": 20,
+    "timestamp": "2024-02-06T13:38:01.182407",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 73647043,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T09:54:53.169209",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 63202582,
+    "customer_id": 9,
+    "timestamp": "2024-02-06T12:55:57.669465",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 93137210,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T01:25:55.085415",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 98997153,
+    "customer_id": 29,
+    "timestamp": "2024-02-06T10:11:34.782206",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 42457739,
+    "customer_id": 20,
+    "timestamp": "2024-02-06T15:25:21.098617",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 64293280,
+    "customer_id": 5,
+    "timestamp": "2024-02-06T05:33:57.944323",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 88230642,
+    "customer_id": 7,
+    "timestamp": "2024-02-06T10:09:57.935901",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 69217323,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T17:06:11.223345",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 57606710,
+    "customer_id": 5,
+    "timestamp": "2024-02-06T19:25:25.402188",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 68001592,
+    "customer_id": 22,
+    "timestamp": "2024-02-06T21:33:40.073502",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 77543939,
+    "customer_id": 19,
+    "timestamp": "2024-02-06T22:06:25.739150",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": null
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 64288581,
+    "customer_id": 10,
+    "timestamp": "2024-02-06T18:41:47.001787",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 94108898,
+    "customer_id": 21,
+    "timestamp": "2024-02-06T00:44:59.933322",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 17575987,
+    "customer_id": 7,
+    "timestamp": "2024-02-06T14:55:20.928536",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 17395557,
+    "customer_id": 24,
+    "timestamp": "2024-02-06T06:33:23.043404",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 49030623,
+    "customer_id": 22,
+    "timestamp": "2024-02-06T21:34:22.950947",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 33807950,
+    "customer_id": 28,
+    "timestamp": "2024-02-06T17:07:28.207851",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 52983706,
+    "customer_id": 22,
+    "timestamp": "2024-02-06T18:12:45.357584",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 74444806,
+    "customer_id": 11,
+    "timestamp": "2024-02-06T05:04:18.079078",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 78417174,
+    "customer_id": 28,
+    "timestamp": "2024-02-06T00:29:48.743121",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 41281556,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T01:54:02.057529",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 20138535,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T22:29:34.738288",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 39806914,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T00:30:20.623558",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": null
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": null
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 31528941,
+    "customer_id": 22,
+    "timestamp": "2024-02-06T08:05:03.452981",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 99807778,
+    "customer_id": 7,
+    "timestamp": "2024-02-06T10:29:36.930216",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 38255491,
+    "customer_id": 21,
+    "timestamp": "2024-02-06T12:44:35.642863",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 66919838,
+    "customer_id": 29,
+    "timestamp": "2024-02-06T03:43:03.678004",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 33116805,
+    "customer_id": 9,
+    "timestamp": "2024-02-06T18:48:09.878548",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 57115919,
+    "customer_id": 6,
+    "timestamp": "2024-02-06T11:28:07.134751",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 6122522,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T06:23:09.019624",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 97529498,
+    "customer_id": 23,
+    "timestamp": "2024-02-06T06:15:56.758332",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 14216051,
+    "customer_id": 12,
+    "timestamp": "2024-02-06T12:06:56.622075",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": null
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 44374157,
+    "customer_id": 9,
+    "timestamp": "2024-02-06T05:53:16.939647",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 87402765,
+    "customer_id": 8,
+    "timestamp": "2024-02-06T11:45:28.987848",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 68709085,
+    "customer_id": 29,
+    "timestamp": "2024-02-06T18:45:27.661497",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": null
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 78845283,
+    "customer_id": 22,
+    "timestamp": "2024-02-06T03:54:12.272908",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 11702718,
+    "customer_id": 29,
+    "timestamp": "2024-02-06T19:16:55.647031",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 34249973,
+    "customer_id": 8,
+    "timestamp": "2024-02-06T14:10:35.138292",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 59652243,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T17:26:07.567253",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 51240404,
+    "customer_id": 19,
+    "timestamp": "2024-02-06T04:07:34.399079",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 45190388,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T09:15:44.768304",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": null
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 72711093,
+    "customer_id": 4,
+    "timestamp": "2024-02-06T01:56:30.764202",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 43822343,
+    "customer_id": 2,
+    "timestamp": "2024-02-06T18:17:01.276119",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 34414993,
+    "customer_id": 9,
+    "timestamp": "2024-02-06T16:30:31.429894",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": null
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 83376205,
+    "customer_id": 4,
+    "timestamp": "2024-02-06T17:09:37.717707",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 29457538,
+    "customer_id": 2,
+    "timestamp": "2024-02-06T05:13:20.478949",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 73825143,
+    "customer_id": 3,
+    "timestamp": "2024-02-06T04:02:17.964794",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 51049632,
+    "customer_id": 25,
+    "timestamp": "2024-02-06T03:20:59.995957",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 84380787,
+    "customer_id": 5,
+    "timestamp": "2024-02-06T16:47:34.699737",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 4202822,
+    "customer_id": 3,
+    "timestamp": "2024-02-06T07:03:50.525638",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 43576574,
+    "customer_id": 30,
+    "timestamp": "2024-02-06T12:35:16.505645",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 89492408,
+    "customer_id": 3,
+    "timestamp": "2024-02-06T20:06:53.028082",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 56709101,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T20:35:19.246449",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 40783150,
+    "customer_id": 10,
+    "timestamp": "2024-02-06T09:31:24.049856",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 6031700,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T10:27:09.683356",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 60410521,
+    "customer_id": 4,
+    "timestamp": "2024-02-06T19:02:13.261060",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 97471307,
+    "customer_id": 27,
+    "timestamp": "2024-02-06T12:07:53.364071",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 25405003,
+    "customer_id": 6,
+    "timestamp": "2024-02-06T16:12:46.569932",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 68243817,
+    "customer_id": 7,
+    "timestamp": "2024-02-06T04:45:06.866316",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 75817474,
+    "customer_id": 29,
+    "timestamp": "2024-02-06T12:02:53.015693",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 92856563,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T07:43:59.241784",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 84685406,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T04:17:46.139421",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 87305505,
+    "customer_id": 19,
+    "timestamp": "2024-02-06T18:51:15.257819",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 81411081,
+    "customer_id": 24,
+    "timestamp": "2024-02-06T14:59:12.863406",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": null
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 38371691,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T11:57:50.452876",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 29611435,
+    "customer_id": 30,
+    "timestamp": "2024-02-06T21:37:47.937330",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 84075976,
+    "customer_id": 17,
+    "timestamp": "2024-02-06T11:38:08.675412",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": null
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 9015082,
+    "customer_id": 29,
+    "timestamp": "2024-02-06T21:00:54.504336",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 19333172,
+    "customer_id": 24,
+    "timestamp": "2024-02-06T05:36:37.147804",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 85111333,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T23:31:27.813561",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 70775381,
+    "customer_id": 29,
+    "timestamp": "2024-02-06T04:28:44.337291",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 32962367,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T22:50:17.813469",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 23550190,
+    "customer_id": 3,
+    "timestamp": "2024-02-06T14:42:48.981894",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 79171725,
+    "customer_id": 10,
+    "timestamp": "2024-02-06T06:58:44.384930",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 5787521,
+    "customer_id": 24,
+    "timestamp": "2024-02-06T23:10:49.571019",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 13308791,
+    "customer_id": 24,
+    "timestamp": "2024-02-06T05:41:11.721071",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 31495620,
+    "customer_id": 21,
+    "timestamp": "2024-02-06T23:10:34.990895",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 19108274,
+    "customer_id": 7,
+    "timestamp": "2024-02-06T00:15:00.530431",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 86907437,
+    "customer_id": 6,
+    "timestamp": "2024-02-06T14:15:13.015676",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 42475170,
+    "customer_id": 10,
+    "timestamp": "2024-02-06T18:05:37.134873",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": null
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 66770574,
+    "customer_id": 27,
+    "timestamp": "2024-02-06T22:43:26.222906",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 84226715,
+    "customer_id": 3,
+    "timestamp": "2024-02-06T10:27:09.121266",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 76168629,
+    "customer_id": 22,
+    "timestamp": "2024-02-06T17:36:04.079298",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 46856181,
+    "customer_id": 10,
+    "timestamp": "2024-02-06T18:20:28.296431",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 10911320,
+    "customer_id": 9,
+    "timestamp": "2024-02-06T22:18:32.282980",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 3752302,
+    "customer_id": 21,
+    "timestamp": "2024-02-06T12:39:18.666984",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 25020919,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T05:25:06.976258",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 33463646,
+    "customer_id": 19,
+    "timestamp": "2024-02-06T16:19:55.672280",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 1703230,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T04:34:03.820468",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 52302565,
+    "customer_id": 19,
+    "timestamp": "2024-02-06T20:25:19.079069",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 27188040,
+    "customer_id": 21,
+    "timestamp": "2024-02-06T10:31:23.014756",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 78492433,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T20:13:10.052788",
+    "items": [
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 63204623,
+    "customer_id": 25,
+    "timestamp": "2024-02-06T05:58:23.373034",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 56817772,
+    "customer_id": 4,
+    "timestamp": "2024-02-06T14:37:26.665995",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 67929794,
+    "customer_id": 21,
+    "timestamp": "2024-02-06T07:04:09.589377",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 27286226,
+    "customer_id": 19,
+    "timestamp": "2024-02-06T08:36:28.762949",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 12841250,
+    "customer_id": 20,
+    "timestamp": "2024-02-06T01:36:31.985725",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 31650168,
+    "customer_id": 25,
+    "timestamp": "2024-02-06T18:03:26.588289",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 56904350,
+    "customer_id": 19,
+    "timestamp": "2024-02-06T02:00:35.674592",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 57021809,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T09:58:26.559247",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 7153128,
+    "customer_id": 28,
+    "timestamp": "2024-02-06T21:43:10.693757",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 22083375,
+    "customer_id": 3,
+    "timestamp": "2024-02-06T13:45:33.276232",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 35443828,
+    "customer_id": 28,
+    "timestamp": "2024-02-06T06:27:20.078187",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 93294338,
+    "customer_id": 28,
+    "timestamp": "2024-02-06T08:35:44.466380",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 45159705,
+    "customer_id": 25,
+    "timestamp": "2024-02-06T11:03:16.430454",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 28767436,
+    "customer_id": 28,
+    "timestamp": "2024-02-06T10:04:43.416769",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 79082606,
+    "customer_id": 24,
+    "timestamp": "2024-02-06T00:26:54.669415",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 46529387,
+    "customer_id": 23,
+    "timestamp": "2024-02-06T08:38:59.546130",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": null
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 50744426,
+    "customer_id": 3,
+    "timestamp": "2024-02-06T06:42:05.168563",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 77314196,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T21:26:00.541125",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 75091776,
+    "customer_id": 23,
+    "timestamp": "2024-02-06T19:36:52.928837",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 76916906,
+    "customer_id": 5,
+    "timestamp": "2024-02-06T17:59:38.819620",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 55021864,
+    "customer_id": 6,
+    "timestamp": "2024-02-06T20:53:22.778244",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 2722503,
+    "customer_id": 21,
+    "timestamp": "2024-02-06T15:00:12.815385",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 71177167,
+    "customer_id": 12,
+    "timestamp": "2024-02-06T20:16:16.215461",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": null
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 87818975,
+    "customer_id": 25,
+    "timestamp": "2024-02-06T09:28:45.059011",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 95062722,
+    "customer_id": 28,
+    "timestamp": "2024-02-06T02:05:16.806876",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 12943332,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T08:50:29.206195",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 50112660,
+    "customer_id": 27,
+    "timestamp": "2024-02-06T02:50:53.113192",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 68051829,
+    "customer_id": 30,
+    "timestamp": "2024-02-06T02:44:10.829859",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 85596867,
+    "customer_id": 12,
+    "timestamp": "2024-02-06T04:11:22.826742",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 54860278,
+    "customer_id": 22,
+    "timestamp": "2024-02-06T02:23:55.085921",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": null
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 13838753,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T07:16:18.333659",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 88667645,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T21:40:39.227466",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 26979324,
+    "customer_id": 1,
+    "timestamp": "2024-02-06T02:39:16.829678",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 92952468,
+    "customer_id": 6,
+    "timestamp": "2024-02-06T00:37:37.048533",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": null
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 60976523,
+    "customer_id": 17,
+    "timestamp": "2024-02-06T18:04:15.090217",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": null
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 66110887,
+    "customer_id": 20,
+    "timestamp": "2024-02-06T13:01:35.409333",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 78095271,
+    "customer_id": 24,
+    "timestamp": "2024-02-06T14:19:50.860530",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 49498836,
+    "customer_id": 11,
+    "timestamp": "2024-02-06T01:08:06.581221",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 52428131,
+    "customer_id": 28,
+    "timestamp": "2024-02-06T13:51:36.983683",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 88560911,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T02:09:26.324923",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 48471911,
+    "customer_id": 21,
+    "timestamp": "2024-02-06T21:58:09.091443",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 65200302,
+    "customer_id": 20,
+    "timestamp": "2024-02-06T06:33:28.328552",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 62567440,
+    "customer_id": 29,
+    "timestamp": "2024-02-06T19:57:55.914141",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 63769902,
+    "customer_id": 27,
+    "timestamp": "2024-02-06T15:33:48.706797",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": null
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 9300840,
+    "customer_id": 10,
+    "timestamp": "2024-02-06T21:27:05.108602",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 47087411,
+    "customer_id": 19,
+    "timestamp": "2024-02-06T19:29:49.871383",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 45584042,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T00:14:45.059533",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 96855575,
+    "customer_id": 20,
+    "timestamp": "2024-02-06T04:54:07.678956",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 77868287,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T23:05:32.202688",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 73873873,
+    "customer_id": 3,
+    "timestamp": "2024-02-06T18:31:18.580894",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 96823842,
+    "customer_id": 29,
+    "timestamp": "2024-02-06T23:23:23.180888",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 99747645,
+    "customer_id": 23,
+    "timestamp": "2024-02-06T15:38:22.261799",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 86432434,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T03:44:12.439603",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 36842474,
+    "customer_id": 9,
+    "timestamp": "2024-02-06T07:53:11.025321",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 27732786,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T22:27:42.302446",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 9003172,
+    "customer_id": 19,
+    "timestamp": "2024-02-06T18:01:36.323104",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 22922750,
+    "customer_id": 4,
+    "timestamp": "2024-02-06T02:55:40.161984",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 2306722,
+    "customer_id": 24,
+    "timestamp": "2024-02-06T16:17:35.251699",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 73379468,
+    "customer_id": 11,
+    "timestamp": "2024-02-06T21:11:16.520656",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 81962750,
+    "customer_id": 12,
+    "timestamp": "2024-02-06T00:53:35.524422",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 31337946,
+    "customer_id": 25,
+    "timestamp": "2024-02-06T02:34:41.455405",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 85772969,
+    "customer_id": 19,
+    "timestamp": "2024-02-06T19:48:09.633957",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 39822521,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T11:18:46.962970",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 90982764,
+    "customer_id": 23,
+    "timestamp": "2024-02-06T07:15:04.284412",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": null
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 73321056,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T22:09:17.676185",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 79375611,
+    "customer_id": 17,
+    "timestamp": "2024-02-06T10:58:26.376496",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 73402568,
+    "customer_id": 9,
+    "timestamp": "2024-02-06T14:16:57.749729",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 21667870,
+    "customer_id": 20,
+    "timestamp": "2024-02-06T01:18:46.265892",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 22540782,
+    "customer_id": 12,
+    "timestamp": "2024-02-06T21:40:16.711311",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 92635231,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T10:27:21.096905",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 223271,
+    "customer_id": 11,
+    "timestamp": "2024-02-06T19:44:21.842750",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 15113002,
+    "customer_id": 25,
+    "timestamp": "2024-02-06T00:47:20.043176",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 73385030,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T12:44:43.153461",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 99431707,
+    "customer_id": 27,
+    "timestamp": "2024-02-06T09:29:02.233150",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": null
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 2182536,
+    "customer_id": 17,
+    "timestamp": "2024-02-06T05:21:45.481855",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 55724688,
+    "customer_id": 23,
+    "timestamp": "2024-02-06T18:46:46.268820",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 77614669,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T08:32:41.494612",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 2324684,
+    "customer_id": 11,
+    "timestamp": "2024-02-06T00:09:41.612132",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 30266015,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T14:20:32.242191",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 52585854,
+    "customer_id": 22,
+    "timestamp": "2024-02-06T08:16:28.581779",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 65495837,
+    "customer_id": 12,
+    "timestamp": "2024-02-06T07:24:14.013876",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 11151473,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T20:19:33.715223",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": null
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 25582160,
+    "customer_id": 3,
+    "timestamp": "2024-02-06T10:33:22.100862",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 83944387,
+    "customer_id": 30,
+    "timestamp": "2024-02-06T10:17:02.198577",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 74450691,
+    "customer_id": 25,
+    "timestamp": "2024-02-06T18:11:00.590082",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 6974718,
+    "customer_id": 2,
+    "timestamp": "2024-02-06T01:09:59.754186",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 62315463,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T06:36:28.608971",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 13858798,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T08:58:26.072870",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 66210682,
+    "customer_id": 18,
+    "timestamp": "2024-02-06T23:44:13.723258",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": null
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 83064523,
+    "customer_id": 2,
+    "timestamp": "2024-02-06T10:03:29.541143",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 96143166,
+    "customer_id": 9,
+    "timestamp": "2024-02-06T00:02:50.138406",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 67002549,
+    "customer_id": 24,
+    "timestamp": "2024-02-06T13:03:07.168172",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 93417263,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T14:17:09.682940",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 95383143,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T08:41:56.754157",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 35235399,
+    "customer_id": 21,
+    "timestamp": "2024-02-06T19:06:04.140152",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 1168609,
+    "customer_id": 27,
+    "timestamp": "2024-02-06T22:43:06.685725",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 39004592,
+    "customer_id": 21,
+    "timestamp": "2024-02-06T02:02:34.591035",
+    "items": [
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 41518235,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T03:36:11.025094",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 64167246,
+    "customer_id": 1,
+    "timestamp": "2024-02-06T23:10:57.548312",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 92644507,
+    "customer_id": 4,
+    "timestamp": "2024-02-06T03:10:07.292830",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 71792733,
+    "customer_id": 8,
+    "timestamp": "2024-02-06T12:22:48.535177",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 63312915,
+    "customer_id": 7,
+    "timestamp": "2024-02-06T06:58:18.222145",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 5698375,
+    "customer_id": 5,
+    "timestamp": "2024-02-06T02:00:26.476724",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 4
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 18770951,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T02:06:21.747051",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 13644400,
+    "customer_id": 30,
+    "timestamp": "2024-02-06T04:47:24.249903",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 196097,
+    "customer_id": 19,
+    "timestamp": "2024-02-06T16:14:51.538672",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": null
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 48776825,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T18:50:09.660311",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 92257828,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T11:40:40.296138",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 47882890,
+    "customer_id": 8,
+    "timestamp": "2024-02-06T10:38:02.706318",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": null
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 46574696,
+    "customer_id": 20,
+    "timestamp": "2024-02-06T03:58:58.864767",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 94796826,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T07:08:27.534220",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 8692415,
+    "customer_id": 12,
+    "timestamp": "2024-02-06T19:39:12.323135",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 64923083,
+    "customer_id": 14,
+    "timestamp": "2024-02-06T00:21:40.846823",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": 2
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 86168224,
+    "customer_id": 5,
+    "timestamp": "2024-02-06T10:13:21.223228",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 93005276,
+    "customer_id": 9,
+    "timestamp": "2024-02-06T19:26:43.270454",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 18129024,
+    "customer_id": 22,
+    "timestamp": "2024-02-06T14:48:15.095648",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 79553919,
+    "customer_id": 17,
+    "timestamp": "2024-02-06T00:40:46.606474",
+    "items": [
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Neon Slime Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 79186275,
+    "customer_id": 24,
+    "timestamp": "2024-02-06T14:09:49.673197",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 38038487,
+    "customer_id": 24,
+    "timestamp": "2024-02-06T23:51:53.301691",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 6353918,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T00:32:16.068312",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 36031559,
+    "customer_id": 24,
+    "timestamp": "2024-02-06T02:12:07.794741",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 11964871,
+    "customer_id": 6,
+    "timestamp": "2024-02-06T08:27:58.328055",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 30140757,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T16:36:20.194039",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Mini",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 60505057,
+    "customer_id": 27,
+    "timestamp": "2024-02-06T20:35:46.274669",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 2
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Worms Stackable",
+        "qty": null
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 30825673,
+    "customer_id": 2,
+    "timestamp": "2024-02-06T12:20:42.122773",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 77334494,
+    "customer_id": 24,
+    "timestamp": "2024-02-06T19:36:40.957481",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 24740047,
+    "customer_id": 13,
+    "timestamp": "2024-02-06T21:19:16.398960",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Edible Glitter Wax Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": null
+      },
+      {
+        "product_id": 29,
+        "product_name": "Translucent Cubes Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 63831824,
+    "customer_id": 20,
+    "timestamp": "2024-02-06T16:05:28.806401",
+    "items": [
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 92209020,
+    "customer_id": 1,
+    "timestamp": "2024-02-06T19:19:47.411615",
+    "items": [
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Rings Stackable",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 66609303,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T05:58:32.289454",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Translucent Cubes Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 5
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 49951397,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T21:25:08.499637",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 1
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 94243518,
+    "customer_id": 1,
+    "timestamp": "2024-02-06T01:27:33.376999",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 66246279,
+    "customer_id": 10,
+    "timestamp": "2024-02-06T18:44:58.680580",
+    "items": [
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 33598553,
+    "customer_id": 5,
+    "timestamp": "2024-02-06T18:03:40.359225",
+    "items": [
+      {
+        "product_id": 28,
+        "product_name": "Opaque Cubes Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 2,
+        "product_name": "Glaze Colors Eggs Seasonal Shapes",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 85756264,
+    "customer_id": 21,
+    "timestamp": "2024-02-06T19:59:09.996437",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": null
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 81413015,
+    "customer_id": 27,
+    "timestamp": "2024-02-06T20:16:10.700136",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Edible Glitter Slime Wearables",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 25491973,
+    "customer_id": 3,
+    "timestamp": "2024-02-06T07:58:47.081140",
+    "items": [
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 18788620,
+    "customer_id": 26,
+    "timestamp": "2024-02-06T23:09:16.689079",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 1
+      },
+      {
+        "product_id": 21,
+        "product_name": "Translucent Worms Mini",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 17153292,
+    "customer_id": 12,
+    "timestamp": "2024-02-06T04:03:57.134152",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 1
+      },
+      {
+        "product_id": 11,
+        "product_name": "Edible Glitter Pop Rocks Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 86976668,
+    "customer_id": 7,
+    "timestamp": "2024-02-06T16:48:29.164423",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Themed Foils Canes Seasonal Shapes",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 48354985,
+    "customer_id": 11,
+    "timestamp": "2024-02-06T21:16:06.160562",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Edible Glitter Wax Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 4
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 67128776,
+    "customer_id": 3,
+    "timestamp": "2024-02-06T05:46:57.832954",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": 4
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 8,
+        "product_name": "Neon Slime Popping Rocks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 59720806,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T12:55:12.571936",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Neon Wax Popping Rocks",
+        "qty": 2
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 3
+      },
+      {
+        "product_id": 14,
+        "product_name": "Neon Pop Rocks Wearables",
+        "qty": 2
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 79338174,
+    "customer_id": 9,
+    "timestamp": "2024-02-06T11:51:09.768020",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 7,
+        "product_name": "Edible Glitter Slime Popping Rocks",
+        "qty": null
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 3
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": null
+      },
+      {
+        "product_id": 19,
+        "product_name": "Translucent Worms Stackable",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 9767107,
+    "customer_id": 16,
+    "timestamp": "2024-02-06T19:45:29.399726",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Neon Wax Wearables",
+        "qty": null
+      },
+      {
+        "product_id": 25,
+        "product_name": "Translucent Rings Mini",
+        "qty": 2
+      },
+      {
+        "product_id": 4,
+        "product_name": "Glaze Colors Hearts Seasonal Shapes",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 22538831,
+    "customer_id": 15,
+    "timestamp": "2024-02-06T21:11:46.143358",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Themed Foils Hearts Seasonal Shapes",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 3
+      },
+      {
+        "product_id": 30,
+        "product_name": "Opaque Cubes Mini",
+        "qty": 1
+      },
+      {
+        "product_id": 1,
+        "product_name": "Themed Foils Eggs Seasonal Shapes",
+        "qty": 1
+      },
+      {
+        "product_id": 6,
+        "product_name": "Glaze Colors Canes Seasonal Shapes",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 44856120,
+    "customer_id": 28,
+    "timestamp": "2024-02-06T10:46:18.134598",
+    "items": [
+      {
+        "product_id": 23,
+        "product_name": "Translucent Rings Stackable",
+        "qty": 4
+      },
+      {
+        "product_id": 13,
+        "product_name": "Edible Glitter Pop Rocks Wearables",
+        "qty": 3
+      },
+      {
+        "product_id": 26,
+        "product_name": "Opaque Rings Mini",
+        "qty": 4
+      },
+      {
+        "product_id": 12,
+        "product_name": "Neon Pop Rocks Popping Rocks",
+        "qty": 3
+      }
+    ]
+  }
+]
